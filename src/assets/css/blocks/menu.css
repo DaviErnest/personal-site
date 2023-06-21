@@ -81,8 +81,8 @@ nav.navbar a:where(:hover, :focus) {
 
 /* Change border-color and color for the active page */
 nav.navbar [aria-current='page'] {
-  --border-color: var(--color-primary);
-  --text-color: var(--color-primary);
+  --border-color: rgba(50, 50, 100, 1);
+  --text-color: rgba(50, 50, 100, 1);
 }
 
 /* Reset button styling */
