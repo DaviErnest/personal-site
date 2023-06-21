@@ -3,6 +3,7 @@ title: About Me
 permalink: /about/index.html
 description: About me
 layout: page
+text-align: justify
 youtube: false
 ---
 
