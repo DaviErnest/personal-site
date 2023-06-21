@@ -1,17 +1,10 @@
 ---
-title: Legal notice
+title: Legal Notice
 seo:
-  title: Legal notice
+  title: Legal Notice
 permalink: /imprint/index.html
-description: Imprint infos
+description: This is the Imprint page. I will update them later.
 layout: page
 ---
 
-Edit your details in `_data/meta.js`
-
-{{ meta.address.firma }}
-{{ meta.address.street }}
-{{ meta.address.zip }}, {{ meta.address.city }}
-
-Tel: <a href="tel:{{ meta.address.mobileCall }}">{{ meta.address.mobileDisplay }}</a>
-Mail: <a href="mailto:{{ meta.address.email }}">{{ meta.address.email }}</a>
+This is the Imprint page. I will update them later.
