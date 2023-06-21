@@ -1,13 +1,10 @@
 ---
 title: About Me
 permalink: /about/index.html
-description: About me
+description: About mMe
 layout: page
-text-align: justify
 youtube: false
 ---
-
-Selamat pagi! I am Davi Ernest Pradipta, Indonesian recipient of the Japanese MEXT scholarship currently in my final year of Information Course at National Institute of Technology, Hakodate College. I will be transferring to the Computer Science and Engineering Department at Toyohashi University of Technology as a 3rd year student from April 2024. 
 
 I was born on 5 October 2002 in East Jakarta, but my mother and I moved to Bandar Lampung eight months later. I stayed there through kindergarten and the first two years of elementary school, but family problems forced us to move to a secluded village in Pringsewu. I was not accustomed to the terrible living conditions in the area and fell terribly ill, so we moved back to Bandar Lampung within two years. We did not stay in Bandar Lampung for long either, as circumstances brought us to Bali, where I finished my elementary school close to where I lived at the time. 
 
