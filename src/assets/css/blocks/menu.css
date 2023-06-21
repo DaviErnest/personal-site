@@ -76,7 +76,7 @@ nav.navbar a {
 
 /* Change the border-color on :hover and :focus */
 nav.navbar a:where(:hover, :focus) {
-  --border-color: rgba(50, 50, 100, 1);
+  --border-color: rgba(250, 200, 50, 1);
 }
 
 /* Change border-color and color for the active page */
