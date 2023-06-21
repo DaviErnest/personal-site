@@ -1,10 +1,7 @@
 ---
-title: 'Post with a video '
-description: "This starter uses Justin Ribeiro's lite-youtube web component. Add `youtube: true` to frontmatter to activate."
+title: 'Fifth Post'
+description: "This is my fifth post. I will update them later."
 date: 2022-10-31
-youtube: true
 ---
 
-This starter uses Justin Ribeiro's lite-youtube web component. Add `youtube: true` to frontmatter to activate.
-
-{% youtube 'Ah6je_bBSH8', 'Alberto Ballesteros - Artista Sin Obra' %}
+This is my fifth post. I will update them later.
