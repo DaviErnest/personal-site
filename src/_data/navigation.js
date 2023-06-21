@@ -5,11 +5,11 @@ module.exports = {
       url: '/about/'
     },
     {
-      text: 'Get started',
+      text: 'Get Started',
       url: '/get-started/'
     },
     {
-      text: 'Built with',
+      text: 'Built With',
       url: '/built-with/'
     },
     {
